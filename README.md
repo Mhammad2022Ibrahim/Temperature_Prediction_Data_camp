@@ -42,10 +42,6 @@ Each model is trained and evaluated using the same training and test data. The p
 
 ## Usage
 
-You can install the dependencies listed above using pip:
-
-pip install pandas numpy mlflow sklearn matplotlib seaborn
-
 ### Google Colab
 
 To use the `Code_Alpha_MRS.ipynb` file with Google Colab, follow these steps:
