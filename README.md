@@ -44,23 +44,23 @@ Each model is trained and evaluated using the same training and test data. The p
 
 ### Google Colab
 
-To use the `Code_Alpha_MRS.ipynb` file with Google Colab, follow these steps:
+To use the `Temperature_Prediction_London.ipynb` file with Google Colab, follow these steps:
 
 1. Open Google Colab.
 2. Click on `File > Open notebook`.
 3. Select the `GitHub` tab.
 4. Enter the URL of your GitHub repository and press Enter.
-5. Click on the `Code_Alpha_MRS.ipynb` file to open it.
+5. Click on the `Temperature_Prediction_London.ipynb` file to open it.
 6. You can now run and modify the notebook in Google Colab.
 
 ### Jupyter Notebook
 
-To use the `Code_Alpha_MRS.ipynb` file with Jupyter Notebook, follow these steps:
+To use the `Temperature_Prediction_London.ipynb` file with Jupyter Notebook, follow these steps:
 
 1. Clone your GitHub repository to your local machine using Git.
-2. Navigate to the directory containing the `Code_Alpha_MRS.ipynb` file in a terminal.
+2. Navigate to the directory containing the `Temperature_Prediction_London.ipynb` file in a terminal.
 3. Run the command `jupyter notebook`. This will open a new tab in your web browser with Jupyter Notebook.
-4. Click on the `Code_Alpha_MRS.ipynb` file to open it.
+4. Click on the `Temperature_Prediction_London.ipynb` file to open it.
 5. You can now run and modify the notebook in Jupyter Notebook.
    
 Once your notebook is open in Google Colab or Jupyter Notebook, you can run the cells using the play button, or Shift+Enter on your keyboard. Remember to install any necessary libraries using !pip install library-name for Google Colab, or !pip install library-name directly in a cell for Jupyter Notebook. 😊
